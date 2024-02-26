@@ -6,6 +6,9 @@ Remove any remaining comments before publishing as these may be displayed on Gra
 
 App to help developing extension points
 
+This needs to be used with the following version of Grafana
+https://github.com/grafana/grafana/pull/83403
+
 <!-- To help maximize the impact of your README and improve usability for users, we propose the following loose structure:
 
 **BEFORE YOU BEGIN**
